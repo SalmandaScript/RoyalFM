@@ -38,7 +38,7 @@ open("https://salmandascript.github.io/Salmandamusiq/");
 }
 
 function newsChannel(){
-open("https://salmandascript.github.io/NewsChannel/");
+open("https://salmandascript.github.io/NewsChannel1/");
 }
 
 function movieChannel(){
@@ -361,35 +361,35 @@ var _audio = document.getElementById("idAudio");
 
   var _songList = [
   {
-  url: "https://salmandascript.github.io/RoyalFMPodcast/RoyalFMPodcast1.mp3/"
+  url: "RoyalFMPodcast1.mp3"
   },
   
   {
-  url: "https://salmandascript.github.io/RoyalFMPodcast/RoyalFMPodcast2.mp3/"
+  url: "RoyalFMPodcast2.mp3"
   },
   
    {
-  url:  "https://salmandascript.github.io/RoyalFMPodcast/RoyalFMPodcast3.mp3/"
+  url:  "RoyalFMPodcast3.mp3"
   },
   
   {
-  url:"https://salmandascript.github.io/RoyalFMPodcast/RoyalFMPodcast4.mp3/"
+  url:"RoyalFMPodcast4.mp3"
   },
   
   {
-   url: "https://salmandascript.github.io/RoyalFMPodcast/RoyalFMPodcast5.mp3/"
+   url: "RoyalFMPodcast5.mp3"
   },
   
   {
-  url:"https://salmandascript.github.io/RoyalFMPodcast/RoyalFMPodcast6.mp3/"
+  url:"RoyalFMPodcast6.mp3"
   },
   
   {
-  url: "https://salmandascript.github.io/RoyalFMPodcast/RoyalFMPodcast7.mp3/"
+  url: "RoyalFMPodcast7.mp3"
   },
   
    {
-  url: "https://salmandascript.github.io/RoyalFMPodcast/RoyalFMPodcast8.mp3/"
+  url: "RoyalFMPodcast8.mp3"
   },
   ];
 
